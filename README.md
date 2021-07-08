@@ -9,6 +9,9 @@
 - selenium==3.141.0
 - chromedriver_binary==83.0.4103.39.0
 
+## pyinstaller语句
+`pyinstaller ./20210709_ScrapingScript_GreenJapan.py -D --clean -n "ScrapingTool" -i fav.ico --add-binary "./driver/chromedriver.exe;./driver" --add-binary "./browser;./browser"  `
+
 ## 参考资料
 - [jupyter Notebookのコードをexe化する方法 [Anaconda3環境]](https://nprogram.hatenablog.com/entry/2019/10/21/110326)
 - [Python & Selenium を PyInstaller で実行ファイル化するまと](https://www.zacoding.com/post/python-selenium-pyinstaller/)
