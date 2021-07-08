@@ -1,0 +1,3 @@
+pandas==0.24.2
+selenium==3.141.0
+chromedriver_binary==83.0.4103.39.0
