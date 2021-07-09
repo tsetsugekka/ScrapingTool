@@ -330,7 +330,7 @@ def get_tar():
                 to_excel_auto_column_weight(doc, writer, "結果")
             
             show_text.insert(END,
-                             "（サイト："+site+"、キーワード："+window_keyword+"）でのスクレピング結果を"+window_savepath+"に保存されました。\n")
+                             "スクレピング結果を"+window_savepath+"に保存されました。\n")
         else:
             show_text.insert(END,
                              "このサイトでのスクレピングはまだできません。\n")
