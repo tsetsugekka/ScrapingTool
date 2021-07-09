@@ -1,5 +1,5 @@
 # ScrapingTool
-[下载](https://primalg-my.sharepoint.com/:f:/g/personal/tong_primal-biz_co_jp/EhQB_6vsUwJGg79W6IJQs2oBi9UevrEapN_VLNUQ6B-MBA?e=cXDYSB)
+[exe版下载](https://primalg-my.sharepoint.com/:f:/g/personal/tong_primal-biz_co_jp/EhQB_6vsUwJGg79W6IJQs2oBi9UevrEapN_VLNUQ6B-MBA?e=cXDYSB)
 
 ## 已知的问题
 1. resource_path在jupyter执行报错，在jupyter执行脚本时需要不启用resource_path。
