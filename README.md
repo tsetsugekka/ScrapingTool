@@ -1,5 +1,5 @@
 # ScrapingTool
-[exe版下载](https://primalg-my.sharepoint.com/:f:/g/personal/tong_primal-biz_co_jp/EhQB_6vsUwJGg79W6IJQs2oBi9UevrEapN_VLNUQ6B-MBA?e=cXDYSB)
+[exe版下载](https://primalg-my.sharepoint.com/:f:/g/personal/tong_primal-biz_co_jp/EhQB_6vsUwJGg79W6IJQs2oBi9UevrEapN_VLNUQ6B-MBA?e=GxoZrg)
 
 ## 项目概要
 - GREENJAPAN
