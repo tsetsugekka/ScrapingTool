@@ -19,3 +19,5 @@
 - [Tkinter选择路径功能的实现](https://blog.csdn.net/zjiang1994/article/details/53513377)
 - [Python之tkinter 进度条 Progressbar](https://blog.csdn.net/qq_44168690/article/details/105092516)
 - [Tkinter 教程 - 下拉列表 | D栈 - Delft Stack](https://www.delftstack.com/zh/tutorial/tkinter-tutorial/tkinter-combobox/)
+- [Pandas专家总结：指定样式保存excel数据的 “N种” 姿势](https://cloud.tencent.com/developer/article/1770494)
+- [Pandas 导出表格 to_execl 自动调整列宽 - 简书](https://www.jianshu.com/p/a3aed25b3c28)
